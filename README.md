@@ -18,4 +18,4 @@ Lastly, this project walked me through the process of committing changes to Gith
 ## What's Next?
 The website is plain right now so adding some CSS styling would be the next logical step.
 
-CLICK [HERE](https://teephan91.github.io/recipes_website/) TO VIEW THE PROJECT
+[CLICK HERE TO VIEW THE PROJECT](https://teephan91.github.io/recipes_website/)
