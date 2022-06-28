@@ -1,0 +1,60 @@
+/* Imported fonts - Lato & Russo One */
+
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Russo+One&display=swap");
+
+/* Shared stylings between all HTML files */
+
+html {
+    background-color: #eeeeee;
+}
+
+h1, 
+h2 {
+    font-family: 'Russo One', sans-serif;
+    color: #191970;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+/* Styling classes for index.html */
+
+.index-h1 {
+    text-align: center;
+}
+
+.index-image {
+    height: auto;
+    width: 640px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.index-para1,
+.index-para2,
+.index-ul {
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    color: #6b6b6b;
+    text-align: center;
+}
+
+.index-para1 {
+    font-size: 30px;
+}
+
+.index-para2 {
+    font-size: 18px;
+}
+
+.index-ul {
+    font-size: 16px;
+    list-style-type: none;
+}
