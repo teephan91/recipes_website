@@ -23,6 +23,15 @@ h2 {
     font-size: 30px;
 }
 
+p,
+ul,
+ol {
+    font-family: Lato, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #6b6b6b;
+}
+
 /* Styling classes for index.html */
 
 .index-h1 {
@@ -57,4 +66,11 @@ h2 {
 .index-ul {
     font-size: 16px;
     list-style-type: none;
+}
+
+/* Styling classes for brisket.html */
+
+.brisket-image {
+    height: auto;
+    width: 640px;
 }
