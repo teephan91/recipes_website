@@ -1,4 +1,4 @@
-# Recipes_Website
+# Recipes Website
 ![recipes_website_screenshot](https://user-images.githubusercontent.com/101987153/219883138-957f1030-121f-4d79-bc0b-6968e06ee595.JPG)
 
 ## About
